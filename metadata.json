@@ -1,0 +1,7 @@
+{
+  "name": "Krishna Residency – Luxury Living in Jhotwara, Jaipur",
+  "description": "Premium 3 & 4 BHK apartments at Krishna Residency, Niwaru Road, Jhotwara, Jaipur with AI Property Concierge, Vastu compliance, and budget property finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
